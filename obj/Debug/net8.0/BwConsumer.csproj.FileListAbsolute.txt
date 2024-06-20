@@ -1,0 +1,16 @@
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.csproj.AssemblyReference.cache
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.csproj.CoreCompileInputs.cache
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\BwConsumer.exe
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\BwConsumer.deps.json
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\BwConsumer.runtimeconfig.json
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\BwConsumer.dll
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\BwConsumer.pdb
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.csproj.CopyComplete
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.dll
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\refint\BwConsumer.dll
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.pdb
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\BwConsumer.genruntimeconfig.cache
+C:\Users\jolse\source\repos\BwConsumer\obj\Debug\net8.0\ref\BwConsumer.dll
+C:\Users\jolse\source\repos\BwConsumer\bin\Debug\net8.0\Newtonsoft.Json.dll

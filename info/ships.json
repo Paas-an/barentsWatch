@@ -1,0 +1,83 @@
+[
+  {
+    "Mmsi": 257193000,
+    "Name": "VEIDAR",
+    "Position": {
+      "Latitude": 62.472585,
+      "Longitude": 6.125352
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 258483000,
+    "Name": "KAP FARVEL",
+    "Position": {
+      "Latitude": 63.756872,
+      "Longitude": 7.64513
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 258360000,
+    "Name": "Nordstar",
+    "Position": {
+      "Latitude": 62.477888,
+      "Longitude": 6.22512
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 257582600,
+    "Name": "Vonar",
+    "Position": {
+      "Latitude": 62.43117,
+      "Longitude": 6.341087
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 258563000,
+    "Name": "Atlantic Star",
+    "Position": {
+      "Latitude": 60.638067,
+      "Longitude": 3.123098
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 257529000,
+    "Name": "Haltentrål",
+    "Position": {
+      "Latitude": 71.21032,
+      "Longitude": 20.755138
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 257786700,
+    "Name": "Ramoen",
+    "Position": {
+      "Latitude": 69.815603,
+      "Longitude": 16.58203
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 258351000,
+    "Name": "Koralen",
+    "Position": {
+      "Latitude": 61.970968,
+      "Longitude": 5.141925
+    },
+    "IsHome": false
+  },
+  {
+    "Mmsi": 257225000,
+    "Name": "Koralhav",
+    "Position": {
+      "Latitude": 71.945203,
+      "Longitude": 16.482065
+    },
+    "IsHome": false
+  }
+]
